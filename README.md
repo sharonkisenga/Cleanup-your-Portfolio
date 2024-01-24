@@ -11,6 +11,12 @@ REORGANIZE FILES:Remove __pycache__ folders and . pyc files in Python Project
 #Using the python interpreter to delete all __pycache__ folders and
 #Using the py3clean command to delete __pycache
 ##
+cleanup portfolio's project
+Introduction
+contribution: no contributiom
+licence:no licence
+
+
 SCRUCE UP VARIABLE NAME:How do you update a variable in Python?
 To update a variable in Python, simply assign a new value to the variable using the "=" operator. Here's an example code snippet that updates the value of a variable: x = 5. print(x) # Output: 5
 ##
